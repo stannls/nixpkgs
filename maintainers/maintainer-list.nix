@@ -19860,6 +19860,13 @@
     githubId = 7512804;
     name = "Martin Langlotz";
   };
+  stannis = {
+    name = "Yannis Storrer";
+    email = "yannis.storrer@web.de";
+    github = "stannls";
+    githubId = 49496115;
+    keys = [ { fingerprint = "F485 4B7F 3F4A 2DFE B943  75FC 4D4F 489A 421B 7DBB"; } ];
+  };
   starcraft66 = {
     name = "Tristan Gosselin-Hane";
     email = "starcraft66@gmail.com";

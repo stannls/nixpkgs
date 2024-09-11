@@ -39692,4 +39692,6 @@ with pkgs;
   dillo = callPackage ../by-name/di/dillo/package.nix {
     fltk = fltk13;
   };
+
+  binsider = callPackage ../by-name/bi/binsider/package.nix { };
 }
